@@ -1,6 +1,6 @@
 export const PagesData = {
     HOME : {
-        title : "Hey, I'm Kunal 👋",
+        title : "Hey, I'm Abdul Qayyum 👋",
         subTitle : "I'm a skilled full stack developer, capable of developing high quality web apps.",
         about : [
             `I am an Information Technology undergraduate at the Institute of Engineering and Technology, 
@@ -16,9 +16,9 @@ export const PagesData = {
 }
 
 export const SocialMediaLinks = {
-    github : 'https://github.com/kunals131',
-    linkedin : 'https://www.linkedin.com/in/kunal-sangtiani-4373581bb/',
-    email : 'ksangtiani13@gmail.com'
+    github : 'https://github.com/abdulqayyum686',
+    linkedin : 'www.linkedin.com/in/abdul-qayyum-full-stack-developer',
+    email : 'qayyuma686@gmail.com'
 }
 
 
